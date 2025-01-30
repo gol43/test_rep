@@ -1,0 +1,8 @@
+aiogram==3.13.1
+aioredis==2.0.0
+python-dotenv==1.0.1
+asyncio
+aiohttp
+redis
+fastapi
+uvicorn
